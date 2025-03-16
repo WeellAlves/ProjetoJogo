@@ -264,5 +264,5 @@ while run:
 
     pygame.display.flip()
 
-# Encerra o pygame
+
 pygame.quit()
