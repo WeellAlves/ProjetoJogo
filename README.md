@@ -9,7 +9,7 @@
 
 #  Space Invasion 
 
-## About  
+## Sobre  
 
 Space Invasion é um jogo desenvolvido usando o Pygame. O jogo tem apenas um único level, conforme você pontua, o jogo fica mais dificl. Ao Perder toda a vida, mostra o valor total do score obtido na partida. 
 
